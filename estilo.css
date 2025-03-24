@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: #c6fff7;
+    background-color: #ffffff;
     font-family: "Open Sans", sans-serif;
     margin: 5%;
     line-height: 1.6;
@@ -17,12 +17,12 @@ main{
     max-width: 800px;
     margin: auto;
     padding: 20px;
-    box-shadow: 0 0 10px rgba(108, 192, 131, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.961);
 }
 
 header{
     text-align: center;
-    color:rgb(20, 0, 39);
+    color:rgb(255, 255, 255);
     padding: 20px 0;
     border-radius: 8px 8px 0 0;
     background-image: url('./img/bosque.jpg')
@@ -45,7 +45,7 @@ header h2{
 }
 
 .container{
-    background-color: rgb(0, 185, 15);
+    background-color: rgb(32, 132, 41);
     width: 80%;
     margin: 0 auto;
     position: relative;
@@ -60,9 +60,9 @@ header h2{
     overflow: hidden;
     display: inline-block;
     vertical-align: middle;
-    border: 7px solid #216cae;
+    border: 7px solid #3690e0;
     margin: 5%;
-    box-shadow: 0px 0px 20px rgba(0,0,0,0.5) ;
+    box-shadow: 0px 0px 20px rgba(199, 180, 180, 0.5) ;
 
 }
 
