@@ -110,5 +110,13 @@ ul li{
 }
 
 address p{
-    margin: 5px;
+    margin: 5px 0;
+    color: blueviolet;
+    text-decoration: none;
+
+}
+i{
+    color: aqua;
+    margin-right: 8px;
+
 }
