@@ -22,7 +22,7 @@ main{
 
 header{
     text-align: center;
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
     padding: 20px 0;
     border-radius: 8px 8px 0 0;
     background-image: url('./img/bosque.jpg')
@@ -83,4 +83,32 @@ header h2{
     margin-left: 1%;
     text-shadow: 0px 0px 20px rgba(231, 235, 230, 0.5)
 
+}
+h3{
+    font-size: 1.4em;
+    margin-top: 20px;
+    color: #3690e0;
+
+}
+
+section{
+    background-color: rgb(168, 231, 148);
+    padding: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.961);
+}
+section hr{
+    border: 0;
+    height: 2px;
+    background: #3690e0;
+    margin: 10px;
+}
+
+ul li{
+    padding: 5px 0 ;
+
+}
+
+address p{
+    margin: 5px;
 }
