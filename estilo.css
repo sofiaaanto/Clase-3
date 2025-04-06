@@ -25,7 +25,7 @@ header{
     color:rgb(0, 0, 0);
     padding: 20px 0;
     border-radius: 8px 8px 0 0;
-    background-image: url('./img/bosque.jpg')
+    background-image: url('./Azul.jpg')
 }
 
 header figure img {
@@ -45,7 +45,7 @@ header h2{
 }
 
 .container{
-    background-color: rgb(32, 132, 41);
+    background-color: rgb(0, 33, 73);
     width: 80%;
     margin: 0 auto;
     position: relative;
@@ -60,7 +60,7 @@ header h2{
     overflow: hidden;
     display: inline-block;
     vertical-align: middle;
-    border: 7px solid #3690e0;
+    border: 7px solid #78aedd;
     margin: 5%;
     box-shadow: 0px 0px 20px rgba(199, 180, 180, 0.5) ;
 
@@ -87,12 +87,12 @@ header h2{
 h3{
     font-size: 1.4em;
     margin-top: 20px;
-    color: #3690e0;
+    color: #030d15;
 
 }
 
 section{
-    background-color: rgb(168, 231, 148);
+    background-color: rgb(86, 181, 232);
     padding: 8px;
     margin-bottom: 20px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.961);
@@ -100,7 +100,7 @@ section{
 section hr{
     border: 0;
     height: 2px;
-    background: #3690e0;
+    background: #000102;
     margin: 10px;
 }
 
@@ -111,12 +111,12 @@ ul li{
 
 address p{
     margin: 5px 0;
-    color: blueviolet;
+    color: rgb(70, 0, 135);
     text-decoration: none;
 
 }
 i{
-    color: aqua;
+    color: rgb(12, 16, 89);
     margin-right: 8px;
 
 }
