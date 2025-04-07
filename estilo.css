@@ -25,12 +25,12 @@ header{
     color:rgb(0, 0, 0);
     padding: 20px 0;
     border-radius: 8px 8px 0 0;
-    background-image: url('./Azul.jpg')
+    background: linear-gradient(rgba(61, 121, 225, 0.964),rgba(51, 73, 180, 0.94));
 }
 
 header figure img {
     border-radius: 50%;
-    border: 5px solid #216cae;
+    border: 5px solid #051f65;
     box-shadow: 0px 0px 10px ;
 }
 
@@ -45,7 +45,7 @@ header h2{
 }
 
 .container{
-    background-color: rgb(0, 33, 73);
+    background: linear-gradient(rgba(57, 73, 173, 0.948),rgba(87, 150, 177, 0.937)) ;
     width: 80%;
     margin: 0 auto;
     position: relative;
@@ -60,9 +60,9 @@ header h2{
     overflow: hidden;
     display: inline-block;
     vertical-align: middle;
-    border: 7px solid #78aedd;
+    border: 7px solid #001868db;
     margin: 5%;
-    box-shadow: 0px 0px 20px rgba(199, 180, 180, 0.5) ;
+    box-shadow: 0px 0px 20px rgb(18, 69, 158) ;
 
 }
 
@@ -81,7 +81,7 @@ header h2{
     display: inline-block;
     vertical-align: middle;
     margin-left: 1%;
-    text-shadow: 0px 0px 20px rgba(231, 235, 230, 0.5)
+    text-shadow: 0px 0px 20px rgba(0, 2, 4, 0.5)
 
 }
 h3{
@@ -92,7 +92,7 @@ h3{
 }
 
 section{
-    background-color: rgb(86, 181, 232);
+    background-color: rgb(146, 197, 255) ;
     padding: 8px;
     margin-bottom: 20px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.961);
@@ -116,7 +116,13 @@ address p{
 
 }
 i{
-    color: rgb(12, 16, 89);
+    color: rgb(82, 13, 201);
     margin-right: 8px;
 
 }
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
